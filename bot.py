@@ -22,4 +22,4 @@ async def how(ctx):
     # Replace YOUR_OPENWEATHERMAP_API_KEY with your actual API key
     await ctx.send("am find thanks you!")
 
-bot.run("MTI3ODk4NzgzNzkyNDA1MzA3Mw.GtFRhP.GSZ04ThmUDHMTQWVz4s3m7raC24uoJ3kDAd1Bk")
+bot.run(YOUR_OPENWEATHERMAP_API_KEY)
